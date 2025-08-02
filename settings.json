@@ -1,10 +1,10 @@
 {
-    "lang": "en",
-    "siteTitle": "11ty LibDoc",
-    "siteDescription": "An Eleventy starter project to craft slick documentation",
+    "lang": "zh_CN",
+    "siteTitle": "EdwinLab",
+    "siteDescription": "Where curiosity meets creativity.",
     "siteLogoUrl": "",
     "siteLogoMaxHeight": 60,
-    "author": false,
+    "author": Edwin,
     "faviconUrl": "/favicon.png",
     "ogImageUrl": "https://raw.githubusercontent.com/ita-design-system/ita-medias/refs/heads/main/ogimage-11ty-libdoc.png",
     "customLinks": [],
@@ -16,7 +16,7 @@
     "tocEnabled": true,
     "tocHtmlTags": ["h1", "h2", "h3", "h4", "h5", "h6"],
     "tocMinTags": 1,
-    "htmlBasePathPrefix": "",
+    "htmlBasePathPrefix": "/repository- EdwinLab/",
     "sandboxRunSwitch": true,
     "searchEnabled": true,
     "hljsLanguages": [
