@@ -2,276 +2,331 @@
 	"copiedToClipboard": {
 		"en": "Copied to clipboard",
 		"fr": "Copié dans le presse-papiers",
-		"it": "Copiato negli appunti"
+		"it": "Copiato negli appunti",
+		"zh": "已复制到剪贴板"
 	},
 	"code": {
 		"en": "Code",
 		"fr": "Code",
-		"it": "Codice"
+		"it": "Codice",
+		"zh": "代码"
 	},
 	"colorSchemes": {
 		"en": "Color schemes",
 		"fr": "Modes d’apparences",
-		"it": "Modalità visive"
+		"it": "Modalità visive",
+		"zh": "配色方案"
 	},
 	"colorSchemeAuto": {
 		"en": "Automatic",
 		"fr": "Automatique",
-		"it": "Automatica"
+		"it": "Automatica",
+		"zh": "自动"
 	},
 	"colorSchemeDescriptionAuto": {
 		"en": "Based on you operating system preference",
 		"fr": "Basé sur les règles d’affichage de votre système",
-		"it": "Basata sulle preferenze del tuo sistema"
+		"it": "Basata sulle preferenze del tuo sistema",
+		"zh": "根据您的操作系统偏好"
 	},
 	"colorSchemeLight": {
 		"en": "Light",
 		"fr": "Clair",
-		"it": "Chiaro"
+		"it": "Chiaro",
+		"zh": "浅色"
 	},
 	"colorSchemeDescriptionLight": {
 		"en": "Always apply light mode",
 		"fr": "Toujours appliquer le mode clair",
-		"it": "Applica sempre il tema chiaro"
+		"it": "Applica sempre il tema chiaro",
+		"zh": "始终应用浅色模式"
 	},
 	"colorSchemeDark": {
 		"en": "Dark",
 		"fr": "Sombre",
-		"it": "Scuro"
+		"it": "Scuro",
+		"zh": "深色"
 	},
 	"colorSchemeDescriptionDark": {
 		"en": "Always apply dark mode",
 		"fr": "Toujours appliquer le mode sombre",
-		"it": "Applica sempre il tema scuro"
+		"it": "Applica sempre il tema scuro",
+		"zh": "始终应用深色模式"
 	},
 	"copied": {
 		"en": "Copied",
 		"fr": "Copié",
-		"it": "Copiato"
+		"it": "Copiato",
+		"zh": "已复制"
 	},
 	"copy": {
 		"en": "Copy",
 		"fr": "Copier",
-		"it": "Copia"
+		"it": "Copia",
+		"zh": "复制"
 	},
 	"copyCode": {
 		"en": "Copy code",
 		"fr": "Copier le code",
-		"it": "Copia il codice"
+		"it": "Copia il codice",
+		"zh": "复制代码"
 	},
 	"copyHTML": {
 		"en": "Copy HTML",
 		"fr": "Copier le HTML",
-		"it": "Copia l’HTML"
+		"it": "Copia l’HTML",
+		"zh": "复制 HTML"
 	},
 	"copyURL": {
 		"en": "Copy URL",
 		"fr": "Copier l’URL",
-		"it": "Copia l’URL"
+		"it": "Copia l’URL",
+		"zh": "复制链接"
 	},
 	"enable": {
 		"en": "Enable",
 		"fr": "Activer",
-		"it": "Attiva"
+		"it": "Attiva",
+		"zh": "启用"
 	},
 	"goToTopOfPage": {
 		"en": "Go to top of page",
 		"fr": "Aller en haut de page",
-		"it": "Vai in vima alla pagina"
+		"it": "Vai in vima alla pagina",
+		"zh": "回到页面顶部"
 	},
 	"editThisPage": {
 		"en": "Edit this page",
 		"fr": "Modifier la page",
-		"it": "Modifica la pagina"
+		"it": "Modifica la pagina",
+		"zh": "编辑此页面"
 	},
 	"height": {
 		"en": "Height",
 		"fr": "Hauteur",
-		"it": "Altezza"
+		"it": "Altezza",
+		"zh": "高度"
 	},
 	"homepage": {
 		"en": "Homepage",
 		"fr": "Page d’accueil",
-		"it": "Pagina iniziale"
+		"it": "Pagina iniziale",
+		"zh": "主页"
 	},
 	"homepageShort": {
 		"en": "Home",
 		"fr": "Accueil",
-		"it": "Home"
+		"it": "Home",
+		"zh": "首页"
 	},
 	"inANewTab": {
 		"en": "In a new tab",
 		"fr": "Dans un nouvel onglet",
-		"it": "In una nuova scheda"
+		"it": "In una nuova scheda",
+		"zh": "在新标签页中"
 	},
 	"lastModified": {
 		"en": "Last modified",
 		"fr": "Dernière modification",
-		"it": "Ultima modifica"
+		"it": "Ultima modifica",
+		"zh": "最后修改"
 	},
 	"menu": {
 		"en": "Menu",
 		"fr": "Menu",
-		"it": "Menu"
+		"it": "Menu",
+		"zh": "菜单"
 	},
 	"noscriptAlert": {
 		"en": "It seems that your browser JavaScript is disabled, LibDoc is set to fallback mode with reduced features.",
 		"fr": "Il semble que JavaScript soit désactivé de votre navigateur, LibDoc est en mode restreint avec des fonctionnalités réduites.",
-		"it": "Sembra che il tuo browser abbia JavaScript disattivato, LibDoc è impostato in modalità di riserva, con funzionalità ridotte."
+		"it": "Sembra che il tuo browser abbia JavaScript disattivato, LibDoc è impostato in modalità di riserva, con funzionalità ridotte.",
+		"zh": "您的浏览器似乎禁用了 JavaScript，LibDoc 已启用降级模式，功能受限。"
 	},
 	"open": {
 		"en": "Open",
 		"fr": "Ouvrir",
-		"it": "Apri"
+		"it": "Apri",
+		"zh": "打开"
 	},
 	"openInANewTab": {
 		"en": "Open in a new tab",
 		"fr": "Ouvrir dans un nouvel onglet",
-		"it": "Apri in una nuova scheda"
+		"it": "Apri in una nuova scheda",
+		"zh": "在新标签页中打开"
 	},
 	"page": {
 		"en": "Page",
 		"fr": "Page",
-		"it": "Pagina"
+		"it": "Pagina",
+		"zh": "页面"
 	},
 	"pages": {
 		"en": "Pages",
 		"fr": "Pages",
-		"it": "Pagine"
+		"it": "Pagine",
+		"zh": "页面"
 	},
 	"pagesTagged": {
 		"en": "Pages tagged",
 		"fr": "Pages taguées",
-		"it": "Pagine con tag"
+		"it": "Pagine con tag",
+		"zh": "带标签的页面"
 	},
 	"preferences": {
 		"en": "Preferences",
 		"fr": "Préférences",
-		"it": "Preferenze"
+		"it": "Preferenze",
+		"zh": "偏好设置"
 	},
 	"reload": {
 		"en": "Reload",
 		"fr": "Recharger",
-		"it": "Ricarica"
+		"it": "Ricarica",
+		"zh": "重新加载"
 	},
 	"reloaded": {
 		"en": "Reloaded",
 		"fr": "Rechargé",
-		"it": "Ricaricato"
+		"it": "Ricaricato",
+		"zh": "已重新加载"
 	},
 	"result": {
 		"en": "result",
 		"fr": "Résultat",
-		"it": "Risultato"
+		"it": "Risultato",
+		"zh": "结果"
 	},
 	"sandbox": {
 		"en": "Sandbox",
 		"fr": "Bac à sable",
-		"it": "Sandbox"
+		"it": "Sandbox",
+		"zh": "沙盒"
 	},
 	"sandboxResizeHelper": {
 		"en": "Click and drag to resize code and result",
 		"fr": "Cliquer déplacer pour redimensionner code et résultat",
-		"it": "Clicca e trascina per ridimensionare il codice e il risultato"
+		"it": "Clicca e trascina per ridimensionare il codice e il risultato",
+		"zh": "点击并拖动以调整代码和结果大小"
 	},
 	"search": {
 		"en": "Search",
 		"fr": "Rechercher",
-		"it": "Cerca"
+		"it": "Cerca",
+		"zh": "搜索"
 	},
 	"searchClear": {
 		"en": "Clear input",
 		"fr": "Effacer la saisie",
-		"it": "Cancella l’input"
+		"it": "Cancella l’input",
+		"zh": "清除输入"
 	},
 	"searchMinimumCharacters": {
 		"en": "3 characters min.",
 		"fr": "3 caractères min.",
-		"it": "Almeno 3 aratteri"
+		"it": "Almeno 3 aratteri",
+		"zh": "至少输入3个字符"
 	},
 	"searchResultsNoResultForQuery": {
 		"en": "No result for query",
 		"fr": "Aucun résultat pour la requête",
-		"it": "Nessun risultato per questa ricerca"
+		"it": "Nessun risultato per questa ricerca",
+		"zh": "查询无结果"
 	},
-    "searchOccurrence": {
-        "en": "Occurrence search",
-        "fr": "Recherche d’occurrence",
-		"it": "Ricerca di risultato"
-    },
+	"searchOccurrence": {
+		"en": "Occurrence search",
+		"fr": "Recherche d’occurrence",
+		"it": "Ricerca di risultato",
+		"zh": "查找出现位置"
+	},
 	"searchOccurrencesCurrent": {
 		"en": "Current search occurrence",
 		"fr": "Occurrence actuelle",
-		"it": "Attuale risultato"
+		"it": "Attuale risultato",
+		"zh": "当前出现位置"
 	},
 	"searchOccurrencesNext": {
 		"en": "Next search occurrence",
 		"fr": "Occurrence suivante",
-		"it": "Risultato seguente"
+		"it": "Risultato seguente",
+		"zh": "下一个出现位置"
 	},
 	"searchOccurrencesPrevious": {
 		"en": "Previous search occurrence",
 		"fr": "Occurrence précédente",
-		"it": "Risultato precedente"
+		"it": "Risultato precedente",
+		"zh": "上一个出现位置"
 	},
 	"searchOccurrencesStop": {
 		"en": "Stop search occurrences",
 		"fr": "Fermet la recherches d’occurrences",
-		"it": "Ferma la ricerca"
+		"it": "Ferma la ricerca",
+		"zh": "停止查找出现位置"
 	},
-    "searchPlaceholder": {
-        "en": "Press 🆂 to search",
-        "fr": "Presser 🆂 pour rechercher",
-        "it": "Premere 🆂 per cercare"
-    },
+	"searchPlaceholder": {
+		"en": "Press 🆂 to search",
+		"fr": "Presser 🆂 pour rechercher",
+		"it": "Premere 🆂 per cercare",
+		"zh": "按 🆂 键进行搜索"
+	},
 	"searchSubmit": {
 		"en": "Submit search",
 		"fr": "Lancer la recherche",
-		"it": "Effettua la ricerca"
+		"it": "Effettua la ricerca",
+		"zh": "提交搜索"
 	},
 	"tableOfContent": {
 		"en": "Table of content",
 		"fr": "Sommaire",
-		"it": "Indice"
+		"it": "Indice",
+		"zh": "目录"
 	},
 	"tableOfContentAbbr": {
 		"en": "TOC",
 		"fr": "Sommaire",
-		"it": "Indice"
+		"it": "Indice",
+		"zh": "目录"
 	},
 	"tag": {
 		"en": "Tag",
 		"fr": "Tag",
-		"it": "Tag"
+		"it": "Tag",
+		"zh": "标签"
 	},
 	"tagsList": {
 		"en": "Tags list",
 		"fr": "Liste des tags",
-		"it": "Lista dei tag"
+		"it": "Lista dei tag",
+		"zh": "标签列表"
 	},
 	"tagsListDescription": {
 		"en": "List of every tag available",
 		"fr": "Liste de l’ensemble des tags disponibles",
-		"it": "Lista di tutti i tag disponibili"
+		"it": "Lista di tutti i tag disponibili",
+		"zh": "所有可用标签列表"
 	},
 	"toggleFloatingToc": {
 		"en": "Toggle floating Table of content",
 		"fr": "Basculer la table des matières flottante",
-		"it": "Cambia impostazione indice fluttuante"
+		"it": "Cambia impostazione indice fluttuante",
+		"zh": "切换浮动目录"
 	},
 	"top": {
 		"en": "Top",
 		"fr": "Haut",
-		"it": "In cima"
+		"it": "In cima",
+		"zh": "顶部"
 	},
 	"userPreferences": {
 		"en": "User preferences",
 		"fr": "Préférences utilisateur",
-		"it": "Preferenze dell'utente"
+		"it": "Preferenze dell'utente",
+		"zh": "用户偏好"
 	},
 	"width": {
 		"en": "Width",
 		"fr": "Largeur",
-		"it": "Larghezza"
+		"it": "Larghezza",
+		"zh": "宽度"
 	}
 }
