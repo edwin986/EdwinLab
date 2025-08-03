@@ -9,20 +9,20 @@
     "ogImageUrl": "https://raw.githubusercontent.com/ita-design-system/ita-medias/refs/heads/main/ogimage-11ty-libdoc.png",
     "customLinks": [
                         {
-                            "url": "https://github.com/my-github-repo",
+                            "url": "https://github.com/edwin986/EdwinLab",
                             "text": "GitHub"
                         },
                     ],
-    "blogTitle": "Blog Posts",
-    "blogDescription": false,
-    "blogAuthor": false,
+    "blogTitle": "My Posts",
+    "blogDescription": "My own description for my blog",
+    "blogAuthor": "The Blog Team",
     "blogSlug": "posts",
     "displayTagsListLink": true,
     "tocEnabled": true,
     "tocHtmlTags": ["h1", "h2", "h3", "h4", "h5", "h6"],
     "tocMinTags": 1,
-    "htmlBasePathPrefix": "/repository- EdwinLab/",
-    "sandboxRunSwitch": true,
+    "htmlBasePathPrefix": "/EdwinLab/",
+    "sandboxRunSwitch": false,
     "searchEnabled": true,
     "hljsLanguages": [
         "xml",
