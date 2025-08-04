@@ -4,7 +4,7 @@
     "siteDescription": "Where curiosity meets creativity.",
     "siteLogoUrl": "",
     "siteLogoMaxHeight": 60,
-    "author": Edwin,
+    "author": false,
     "faviconUrl": "/assets/myfavicon.png",
     "ogImageUrl": "https://raw.githubusercontent.com/ita-design-system/ita-medias/refs/heads/main/ogimage-11ty-libdoc.png",
     "customLinks": [
